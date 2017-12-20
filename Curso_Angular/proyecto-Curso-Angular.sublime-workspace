@@ -1,0 +1,329 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"TIT",
+				"title	Tag"
+			],
+			[
+				"nota",
+				"notaminima"
+			],
+			[
+				"var",
+				"varmas6"
+			],
+			[
+				"ge",
+				"genero"
+			],
+			[
+				"no",
+				"notaminima"
+			],
+			[
+				"cantidad",
+				"cantidadAlumnos"
+			],
+			[
+				"da",
+				"dia"
+			],
+			[
+				"num",
+				"num1"
+			],
+			[
+				"nu",
+				"num2"
+			],
+			[
+				"po",
+				"prompt"
+			],
+			[
+				"respues",
+				"respuestaComputadora"
+			],
+			[
+				"respue",
+				"respuestaComputadora"
+			],
+			[
+				"Re",
+				"respuestaUsuario"
+			],
+			[
+				"res",
+				"respuestaUsuario"
+			],
+			[
+				"rea",
+				"respuestaUsuario"
+			],
+			[
+				"re",
+				"respuestaUsuario"
+			],
+			[
+				"op",
+				"Operador"
+			],
+			[
+				"e",
+				"eleccionMaquina"
+			],
+			[
+				"ca",
+				"cantLamp"
+			],
+			[
+				"pr",
+				"precio"
+			],
+			[
+				"F",
+				"fahr"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"par",
+				"parseInt"
+			],
+			[
+				"gt",
+				"getElementById"
+			],
+			[
+				"nume",
+				"numeroSecreto"
+			],
+			[
+				"con",
+				"contadorIntentos"
+			],
+			[
+				"cont",
+				"contPar"
+			],
+			[
+				"pos",
+				"posi"
+			],
+			[
+				"prom",
+				"prompos"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/FACU/HTML_Curso/EstructuraHTML2.html",
+		"/C/Users/DEM/Desktop/CursoIngresoJS-master/6-InstruccionFor/jsIteracionesFor (8).js",
+		"/E/FACU/HTML_Curso/Estilos/Estilos.css",
+		"/E/FACU/HTML_Curso/EstructuraHTML.html",
+		"/E/FACU/HTML_Curso/Practica_05.html",
+		"/E/FACU/HTML_Curso/Formulario2.html",
+		"/E/FACU/HTML_Curso/Practica_01.html",
+		"/C/Users/DEM/Desktop/CursoIngresoJS-master/5-InstruccionWhile/jsIteraciones (3).js",
+		"/C/Users/DEM/Desktop/CursoIngresoJS-master/1-EntradaSalida/jsEntradaSalida-2.js",
+		"/F/Nueva carpeta/CursoIngresoJS-master/8-TPs/FerreteIluminacion.html",
+		"/C/Users/DEM/Desktop/CursoIngresoJS-master/1-EntradaSalida/jsEntradaSalida-1.js",
+		"/C/Users/DEM/Desktop/CursoIngresoJS-master/8-TPs/jsFerreteConstruccion.js",
+		"/F/Nueva carpeta/CursoIngresoJS-master/3-InstruccionSwitch/jsInstruccionSwitch(2).js",
+		"/F/Nueva carpeta/CursoIngresoJS-master/1-EntradaSalida/jsEntradaSalida-2.js",
+		"/C/Users/DEM/Desktop/CursoIngresoJS-master/8-TPs/jsAgilidadAritmetica2.js",
+		"/C/Users/DEM/Desktop/CursoIngresoJS-master/8-TPs/jsAgilidadAritmetica1.js",
+		"/C/Users/DEM/Desktop/CursoIngresoJS-master/8-TPs/AgilidadAritmetica2.html",
+		"/C/Users/DEM/Desktop/CursoIngresoJS-master/3-InstruccionSwitch/jsInstruccionSwitch(2).js",
+		"/C/Users/DEM/Desktop/CursoIngresoJS-master/8-TPs/jsPiedarPapelTijera2.js",
+		"/F/Nueva carpeta/CursoIngresoJS-master/5-InstruccionWhile/jsIteraciones (8).js",
+		"/C/Users/DEM/Desktop/CursoIngresoJS-master/5-InstruccionWhile/jsIteraciones (9).js",
+		"/C/Users/DEM/Desktop/CursoIngresoJS-master/5-InstruccionWhile/jsIteraciones (8).js",
+		"/C/Users/DEM/Desktop/CursoIngresoJS-master/8-TPs/PiedarPapelTijera2.html",
+		"/C/Users/DEM/Desktop/CursoIngresoJS-master/8-TPs/PiedarPapelTijera1.html",
+		"/C/Users/DEM/Desktop/CursoIngresoJS-master/8-TPs/jsReflejosDaltonicos1.js",
+		"/C/Users/DEM/Desktop/CursoIngresoJS-master/8-TPs/jsPiedarPapelTijera1.js",
+		"/C/Users/DEM/Desktop/CursoIngresoJS-master/8-TPs/jsFonteCristo.js",
+		"/C/Users/DEM/Desktop/CursoIngresoJS-master/8-TPs/jsFerretePinturas.js",
+		"/C/Users/DEM/Desktop/CursoIngresoJS-master/8-TPs/jsFerreteIluminacion.js",
+		"/C/Users/DEM/Desktop/CursoIngresoJS-master/8-TPs/jsFerreteFacturacion.js",
+		"/C/Users/DEM/Desktop/CursoIngresoJS-master/8-TPs/jsAdivinaElNumero1.js",
+		"/C/Users/DEM/Desktop/CursoIngresoJS-master/8-TPs/AgilidadAritmetica1.html",
+		"/C/Users/DEM/Desktop/CursoIngresoJS-master/6-InstruccionFor/jsIteracionesFor (4).js",
+		"/C/Users/DEM/Desktop/CursoIngresoJS-master/8-TPs/jsAdivinaElNumero2.js",
+		"/C/Users/DEM/Desktop/CursoIngresoJS-master/8-TPs/FerreteIluminacion.html",
+		"/C/Users/DEM/Desktop/CursoIngresoJS-master/8-TPs/FerretePinturas.html",
+		"/C/Users/DEM/Desktop/CursoIngresoJS-master/8-TPs/FerreteConstruccion.html",
+		"/F/Nueva carpeta/CursoIngresoJS-master/8-TPs/AdivinaElNumero2.html",
+		"/F/Nueva carpeta/CursoIngresoJS-master/8-TPs/jsAdivinaElNumero2.js",
+		"/F/Nueva carpeta/CursoIngresoJS-master/1-EntradaSalida/EntradaSalida-2.html",
+		"/C/Users/DEM/Desktop/CursoIngresoJS-master/8-TPs/AdivinaElNumero1.html",
+		"/F/Nueva carpeta/CursoIngresoJS-master/8-TPs/jsAdivinaElNumero1.js",
+		"/C/Users/DEM/Desktop/CursoIngresoJS-master/6-InstruccionFor/IteracionesFor (8).html",
+		"/C/Users/DEM/Desktop/CursoIngresoJS-master/6-InstruccionFor/jsIteracionesFor (5).js",
+		"/C/Users/DEM/Desktop/CursoIngresoJS-master/6-InstruccionFor/jsIteracionesFor (6).js",
+		"/C/Users/DEM/Desktop/CursoIngresoJS-master/6-InstruccionFor/jsIteracionesFor (7).js",
+		"/C/Users/DEM/Desktop/CursoIngresoJS-master/3-InstruccionSwitch/jsInstruccionSwitch(5).js",
+		"/C/Users/DEM/Desktop/CursoIngresoJS-master/3-InstruccionSwitch/InstruccionSwitch (5).html",
+		"/C/Users/DEM/Desktop/CursoIngresoJS-master/6-InstruccionFor/jsIteracionesFor (1).js",
+		"/C/Users/DEM/Desktop/CursoIngresoJS-master/6-InstruccionFor/jsIteracionesFor (3).js",
+		"/C/Users/DEM/Desktop/CursoIngresoJS-master/6-InstruccionFor/jsIteracionesFor (2).js",
+		"/C/Users/DEM/Desktop/CursoIngresoJS-master/2-InstruccionIf/jsInstruccionIF (10).js",
+		"/C/Users/DEM/Desktop/CursoIngresoJS-master/1-EntradaSalida/EntradaSalida-2.html",
+		"/C/Users/DEM/Desktop/CursoIngresoJS-master/5-InstruccionWhile/Iteraciones (1).html",
+		"/C/Users/DEM/Desktop/CursoIngresoJS-master/5-InstruccionWhile/jsIteraciones (1).js",
+		"/C/Users/DEM/Desktop/CursoIngresoJS-master/5-InstruccionWhile/jsIteraciones (4).js",
+		"/C/Users/DEM/Desktop/CursoIngresoJS-master/5-InstruccionWhile/jsIteraciones (10).js",
+		"/F/CursoIngresoJS-master/3-InstruccionSwitch/jsInstruccionSwitch(4).js",
+		"/C/Users/DEM/Desktop/CursoIngresoJS-master/2-InstruccionIf/jsInstruccionIF (1).js",
+		"/C/Users/DEM/Desktop/CursoIngresoJS-master/6-InstruccionFor/IteracionesFor (1).html",
+		"/C/Users/DEM/Desktop/CursoIngresoJS-master/5-InstruccionWhile/Iteraciones (9).html",
+		"/C/Users/DEM/Desktop/CursoIngresoJS-master/1-EntradaSalida/jsEntradaSalida-5.js",
+		"/C/Users/DEM/Desktop/CursoIngresoJS-master/5-InstruccionWhile/Iteraciones (7).html",
+		"/C/Users/DEM/Desktop/CursoIngresoJS-master/5-InstruccionWhile/jsIteraciones (7).js",
+		"/C/Users/DEM/Desktop/jsIteraciones (7).js",
+		"/C/Users/DEM/Desktop/CursoIngresoJS-master/5-InstruccionWhile/Iteraciones (5).html",
+		"/C/Users/DEM/Desktop/CursoIngresoJS-master/5-InstruccionWhile/jsIteraciones (5).js",
+		"/C/Users/DEM/Desktop/CursoIngresoJS-master/5-InstruccionWhile/jsIteraciones (6).js",
+		"/C/Users/DEM/Desktop/CursoIngresoJS-master/5-InstruccionWhile/Iteraciones (6).html",
+		"/C/Users/DEM/Desktop/CursoIngresoJS-master/1-EntradaSalida/jsEntradaSalida-8.js",
+		"/C/Users/DEM/Desktop/CursoIngresoJS-master/2-InstruccionIf/InstruccionIF (10).html",
+		"/C/Users/DEM/Desktop/CursoIngresoJS-master/5-InstruccionWhile/jsIteraciones (2).js",
+		"/C/Users/DEM/Desktop/CursoIngresoJS-master/2-InstruccionIf/jsInstruccionIF (9).js"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			">\n",
+			"CV_",
+			"getElementById",
+			"(\"\")"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 187.0,
+	"status_bar_visible": true
+}
